@@ -15,8 +15,14 @@ A dedicated repository for storing my C++ solutions and tracking my problem-solv
 ---
 
 ### 📁 Repository Structure
-* `Bootcamp-Easy/`: Selected practice problems from the **Boot Camp for Beginners (Easy 100)**.
-* `ABC/`: Solutions for problems from **AtCoder Beginner Contests**.
+
+* 🎯 **`Bootcamp/`**: Solutions from *Boot camp for Beginners* (300 selected problems)
+  * `Easy/`: 100 Easy problems
+  * `Medium/`: 100 Medium problems
+  * `Hard/`: 100 Hard problems
+
+* 🏆 **`ABC/`**: Solutions from *AtCoder Beginner Contests*
+  * `ABCxxx/`: Problems solved in Contest `xxx` (e.g., `ABC300/A_N_choice.cpp`)
 
 ---
 
