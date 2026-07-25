@@ -32,9 +32,9 @@ AtCoder-Solutions/
 ```
 
 * 🎯 **`Bootcamp/`**: Solutions from *Boot camp for Beginners* (300 selected problems).
-* `Easy/`: 100 Easy problems.
-* `Medium/`: 100 Medium problems.
-* `Hard/`: 100 Hard problems.
+  * `Easy/`: 100 Easy problems.
+  * `Medium/`: 100 Medium problems.
+  * `Hard/`: 100 Hard problems.
 
 
 * 🏆 **`ABC/`**: Solutions from *AtCoder Beginner Contests* (organized by contest number).
