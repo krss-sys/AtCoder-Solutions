@@ -1,0 +1,13 @@
+# Bỏ qua các file thực thi / file rác khi biên dịch C++
+*.exe
+*.out
+*.o
+*.obj
+a.out
+
+# Bỏ qua thư mục build (nếu có)
+build/
+bin/
+
+# Bỏ qua cấu hình riêng của VS Code (nếu không muốn push)
+.vscode/
