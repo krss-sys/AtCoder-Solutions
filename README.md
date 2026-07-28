@@ -39,4 +39,4 @@ ATCODER-SOLUTIONS/
 
 ### 📝 Dev Log
 
-> *  Solved `467_Obesity.cpp` (ABC467).
+> *  Solved `C_Rally.cpp` (ABC156).
