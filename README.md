@@ -39,4 +39,4 @@ ATCODER-SOLUTIONS/
 
 ### 📝 Dev Log
 
-> *  Solved `C_Rally.cpp` (ABC156).
+> *  Solved `B_Qualification_simulator.cpp` (CODE FESTIVAL 2016 qual B).
