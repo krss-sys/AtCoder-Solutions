@@ -39,4 +39,4 @@ ATCODER-SOLUTIONS/
 
 ### 📝 Dev Log
 
-> *  Solved `B_Qualification_simulator.cpp` (CODE FESTIVAL 2016 qual B).
+> *  Solved `B_Tax_Rate.cpp` (Sumitomo Mitsui Trust Bank Programming Contest 2019).
