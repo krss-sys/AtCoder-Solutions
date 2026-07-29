@@ -39,4 +39,4 @@ ATCODER-SOLUTIONS/
 
 ### 📝 Dev Log
 
-> *  Solved `B_Tax_Rate.cpp` (Sumitomo Mitsui Trust Bank Programming Contest 2019).
+> *  Solved `B_Bishop.cpp` (Panasonic Programming Contest 2020).
