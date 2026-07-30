@@ -39,4 +39,4 @@ ATCODER-SOLUTIONS/
 
 ### 📝 Dev Log
 
-> *  Solved `B_Bishop.cpp` (Panasonic Programming Contest 2020).
+> *  Solved `B_Can_you_solve_this.cpp` (AtCoder Beginner Contest 121).
