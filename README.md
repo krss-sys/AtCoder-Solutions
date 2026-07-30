@@ -39,4 +39,4 @@ ATCODER-SOLUTIONS/
 
 ### 📝 Dev Log
 
-> *  Solved `B_Can_you_solve_this.cpp` (AtCoder Beginner Contest 121).
+> *  Solved `B_Bingo.cpp` (AtCoder Beginner Contest 157).
