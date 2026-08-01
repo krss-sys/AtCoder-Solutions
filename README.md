@@ -39,4 +39,4 @@ ATCODER-SOLUTIONS/
 
 ### 📝 Dev Log
 
-> *  Solved `B_1_21.cpp` (AtCoder Beginner Contest 086).
+> *  Solved `B_Collecting_Balls.cpp` (AtCoder Beginner Contest 074).
