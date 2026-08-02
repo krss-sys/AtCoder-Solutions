@@ -73,4 +73,4 @@ CPP-COMPETITIVE-PROGRAMMING/
 
 ### 📝 Dev Log
 
-> * Solved `B_Collecting_Balls.cpp` (AtCoder Beginner Contest 074).
+> * Solved `01_Contains_Duplicate.cpp` (NeetCode 150).

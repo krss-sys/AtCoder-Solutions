@@ -5,8 +5,6 @@
  * Notes:        2D Array / Grid simulation / Check rows, cols, diagonals
  */
 
-#include <bits/stdc++.h>
-using namespace std;
 
 #include <bits/stdc++.h>
 using namespace std;
