@@ -73,4 +73,4 @@ CPP-COMPETITIVE-PROGRAMMING/
 
 ### 📝 Dev Log
 
-> * Solved `01_Contains_Duplicate.cpp` (NeetCode 150).
+> * Solved `02_Valid_Anagram.cpp` (NeetCode 150).
