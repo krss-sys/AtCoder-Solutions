@@ -73,5 +73,4 @@ CPP-COMPETITIVE-PROGRAMMING/
 
 ### 📝 Dev Log
 
-> * Solved `03_Two_Sum_01.cpp` (NeetCode 150).
-> * Solved `03_Two_Sum_02.cpp` (NeetCode 150).
+> * Solved `NC_04_Group_Anagrams.cpp` (NeetCode 150).
