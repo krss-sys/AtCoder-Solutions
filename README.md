@@ -42,7 +42,7 @@ CPP-COMPETITIVE-PROGRAMMING/
 
 ### 🎯 Roadmap: NeetCode 150 Progress
 
-* [ ] **Arrays & Hashing** (0 / 9)
+* [x] **Arrays & Hashing** (5 / 9)
 * [ ] **Two Pointers** (0 / 5)
 * [ ] **Sliding Window** (0 / 6)
 * [ ] **Stack** (0 / 6)
@@ -73,4 +73,4 @@ CPP-COMPETITIVE-PROGRAMMING/
 
 ### 📝 Dev Log
 
-> * Solved `NC_04_Group_Anagrams.cpp` (NeetCode 150).
+> * Solved `NC_05_Top_K_Frequent_Elements.cpp` (NeetCode 150).
